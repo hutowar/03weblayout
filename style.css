@@ -1,0 +1,37 @@
+@import url(./reset.css);
+/* Текущие отступы оставлены с учетом будущего позиционирования */
+.about {
+}
+.menu {
+}
+.menu__logo {
+}
+.menu__nav {
+}
+.menu__item {
+}
+.btn {
+}
+.about__content {
+  margin-top: 84px;
+  margin-bottom: 200px;
+}
+.about__left {
+  padding: 59px;
+}
+.title-h1 {
+}
+.paragraph {
+}
+.paragraph_heading {
+  margin-top: 17px;
+  margin-bottom: 37px;
+}
+.about__btns {
+}
+.about__watch-link {
+}
+.about__right {
+}
+.about-companies {
+}
